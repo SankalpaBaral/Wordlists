@@ -1,1 +1,1 @@
-A collection of wordlists for bug bounty hunting and penetration testing 
+A collection of wordlists for bug bounty hunting,penetration testing and cracking
